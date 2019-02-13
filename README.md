@@ -16,3 +16,5 @@ And this is the third Chart
 
 MAIN 
 https://us.qlikcloud.com/edit/5c577d7714628b5e142e0ced
+
+<iframe src="https://us.qlikcloud.com/edit/5c577d7714628b5e142e0ced" width="100%" height="500"></iframe>
