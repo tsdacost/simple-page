@@ -15,4 +15,4 @@ And this is the third Chart
 <iframe src="https://public.tableau.com/views/DiversityDasboard1/DashboardMain?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 
 MAIN 
-<iframe src="https://public.tableau.com/views/DiversityDasboard1/DashboardMain?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<iframe src="https://us.qlikcloud.com/edit/5c577d7714628b5e142e0ced?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
