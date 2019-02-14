@@ -14,9 +14,9 @@ And this is the second chart***
 
 <b>QLIKSense</b>
 
-https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html
+<!---https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html-->
 
-https://charts.qlikcloud.com/5c64cea45090a3000f115a27/chart.html
+<!---https://charts.qlikcloud.com/5c64cea45090a3000f115a27/chart.html-->
 
 <iframe width="100%" height="500" src="https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html" frameborder="0"></iframe>
 
