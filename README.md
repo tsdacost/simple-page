@@ -33,5 +33,15 @@ The following is a breakdown of the employee gender composition broken out by et
 <!---https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html-->
 			
 <iframe width="100%" height="500" src="https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html" frameborder="0"></iframe>
+		
+<br />
+<br />
+<br />
+<b>History of New Hire since 20016</b>
+<!---https://charts.qlikcloud.com/5c64d7bede1aed001096fdcb/chart.html-->
+<iframe width="100%" height="500" src="https://charts.qlikcloud.com/5c64d7bede1aed001096fdcb/chart.html" frameborder="0"></iframe>
+
+
 
 			
+
