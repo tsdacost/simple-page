@@ -14,6 +14,6 @@ And this is the third Chart
 
 <iframe src="https://public.tableau.com/views/DiversityDasboard1/DashboardMain?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 
-MAIN 
+QLIK Sense
 
-<iframe src="https://us.qlikcloud.com/edit/5c577d7714628b5e142e0ced" width="100%" height="500"></iframe>
+<ifram src="https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html:showVizHome=no&:embed=true"></iframe>
