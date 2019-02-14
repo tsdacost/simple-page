@@ -54,7 +54,7 @@ And this is the second chart***
 
 
 
-The following is a breakdown of the employee gender composition broken out by ethnicity. This data looks at all past and present employees from 2006 though 2017.
+The following is a breakdown of the employee gender composition broken out by ethnicity. This data looks at all employees hired from 2006 though 2017.
 
 <!---https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html-->
 			
