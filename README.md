@@ -8,7 +8,7 @@ We making tings happen!!!!!
 
 And this is the second chart***
 
-<iframe src="https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:showVizHome=no&:embed=true" width="100%" height="500"></iframe> 
+<iframe src="https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
 
 
 <!---https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:embed=y&:display_count=yes&publish=yes-->
