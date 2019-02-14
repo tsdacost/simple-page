@@ -12,7 +12,7 @@ And this is the second chart***
 
 https://public.tableau.com/views/DiversityDasboard1/DashboardMain?:embed=y&:display_count=yes&publish=yes
 
-<b QLIK Sense></b>
+<stong>QLIKSense</b>
 
 https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html
 
@@ -22,5 +22,13 @@ https://charts.qlikcloud.com/5c64cea45090a3000f115a27/chart.html
 
 <iframe width="620" height="515" src="https://charts.qlikcloud.com/5c64cea45090a3000f115a27/chart.html" frameborder="0"></iframe>
 
+
+
+
+The following is a breakdown of the employee gender composition broken out by ethnicity. This data looks at all past and present employees from 2006 though 2017.
+
+https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html
+			
+<iframe width="620" height="515" src="https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html" frameborder="0"></iframe>
 
 			
