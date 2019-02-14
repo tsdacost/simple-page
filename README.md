@@ -4,7 +4,10 @@ link to the live site https://tsdacost.github.io/simple-page/
 
 We making tings happen!!!!!
 
-<iframe src="https://public.tableau.com/views/DiversityDasboard/Dashboard2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/DiversityDasboard/Dashboard2?:showVizHome=no&:embed=true" width="70%" height="500"></iframe><iframe src="https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?:showVizHome=no&:embed=true" width="70%" height="500"></iframe>
+
+<!---https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?-->
+
 
 And this is the second chart***
 
