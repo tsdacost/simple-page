@@ -12,7 +12,7 @@ And this is the second chart***
 
 //https://public.tableau.com/views/DiversityDasboard1/DashboardMain?:embed=y&:display_count=yes&publish=yes
 
-<stong>QLIKSense</b>
+<b>QLIKSense</b>
 
 https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html
 
@@ -29,6 +29,6 @@ The following is a breakdown of the employee gender composition broken out by et
 
 https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html
 			
-<iframe width="620" height="515" src="https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html" frameborder="0"></iframe>
+<iframe width="100%" height="500" src="https://charts.qlikcloud.com/5c64d44ade1aed001096fdca/chart.html" frameborder="0"></iframe>
 
 			
