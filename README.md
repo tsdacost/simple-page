@@ -11,8 +11,15 @@ And this is the second chart***
 <iframe src="https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
 
 
-<!---https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:embed=y&:display_count=yes&publish=yes-->
+<B>This visual will show the employees in question by Departmment. Here was see that all Employees who fall into the Needs improvement category are in the IT/IS department. It warents a closer look as to why 100% if the employees of this ethnicity fall into this category. This points to potintial uncontious bias with regards to the rating of the employees. 
 
+<iframe src="https://public.tableau.com/views/PerformacebyEthnicity2/EthnicitybyDepartment?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
+
+
+
+
+<!---https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:embed=y&:display_count=yes&publish=yes-->
+<!---https://public.tableau.com/views/PerformacebyEthnicity2/EthnicitybyDepartment?:embed=y&:display_count=yes&publish=yes-->
 
 <br />
 <br />
