@@ -19,7 +19,7 @@ https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html
 https://charts.qlikcloud.com/5c64cea45090a3000f115a27/chart.html
 
 
-<iframe width="620" height="515" src="https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html" frameborder="0"></iframe>
+<iframe width="800" height="515" src="https://charts.qlikcloud.com/5c64cbd4fab86d000b763f0f/chart.html" frameborder="0"></iframe>
 
 <iframe width="620" height="515" src="https://charts.qlikcloud.com/5c64cea45090a3000f115a27/chart.html" frameborder="0"></iframe>
 
