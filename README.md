@@ -3,12 +3,15 @@
 link to the live site https://tsdacost.github.io/simple-page/
 
 We making tings happen!!!!!
-
+<!---1-->
 <iframe src="https://public.tableau.com/views/DiversityDasboard/Dashboard2?:showVizHome=no&:embed=true" width="70%" height="300"> </iframe>
 
+
+<!---2-->
 <iframe src="https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?:showVizHome=no&:embed=true" width="70%" height="400"></iframe>
 
 
+<!---3-->
 <iframe src="https://public.tableau.com/views/PerformacebyEthnicity5/Sheet5?:showVizHome=no&:embed=true" width="70%" height="400"></iframe>
 
 
@@ -17,19 +20,23 @@ We making tings happen!!!!!
 
 And this is the second chart***
 
-
+<!---4-->
 <B>This is the breakdown the employees by ethnicity for each department</B>
 <iframe src="https://public.tableau.com/views/PerformacebyEthnicity3/DepartmentBrakdown?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
 
-
+<!---5-->
 <B>This is where we take a closer look at the performance of each group</B>
-<iframe src="https://public.tableau.com/views/DiversityDasboard1/PerformacebyGender?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
+<iframe src="https://public.tableau.com/views/DiversityDasboard1_0/PerformacebyGender?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
 
 <br />
 <br />
 
+<!---6-->
 <B>This visual will show the employees in question by Departmment. Here was see that all Employees who fall into the Needs improvement category are in the IT/IS department. It warents a closer look as to why 100% if the employees of this ethnicity fall into this category. This points to potintial uncontious bias with regards to the rating of the employees. 
 
+
+
+<!---7-->
 <iframe src="https://public.tableau.com/views/PerformacebyEthnicity2/EthnicitybyDepartment?:showVizHome=no&:embed=true" width="100%" height="800"></iframe> 
 
 
