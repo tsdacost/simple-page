@@ -8,7 +8,7 @@ We making tings happen!!!!!
 
 
 <!---2-->
-<iframe src="https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?:showVizHome=no&:embed=true" width="70%" height="600"></iframe>
+<iframe src="https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?:showVizHome=no&:embed=true" width="100%" height="400"></iframe>
 
 
 <!---3-->
