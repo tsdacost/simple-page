@@ -4,11 +4,11 @@ link to the live site https://tsdacost.github.io/simple-page/
 
 We making tings happen!!!!!
 <!---1-->
-<iframe src="https://public.tableau.com/views/DiversityDasboard/Dashboard2?:showVizHome=no&:embed=true" width="70%" height="300"> </iframe>
+<iframe src="https://public.tableau.com/views/DiversityDasboard/Dashboard2?:showVizHome=no&:embed=true" width="70%" height="600"> </iframe>
 
 
 <!---2-->
-<iframe src="https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?:showVizHome=no&:embed=true" width="70%" height="400"></iframe>
+<iframe src="https://public.tableau.com/views/PerformacebyEthnicity4/EthncitybyDepartment2?:showVizHome=no&:embed=true" width="70%" height="600"></iframe>
 
 
 <!---3-->
